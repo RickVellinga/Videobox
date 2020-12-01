@@ -1,1 +1,1 @@
-# Videobox
+# Videobox# Opdracht 11.  openssl_encrypt2.  openssl_public_encrypt3.  openssl_private_encrypt4.  crypt# Opdracht 21.  245 bytes en 2048-bit key# Opdracht 31.  Je gebruikt SSH Keys2.  Het zorgt ervoor dat je niet je username en password in hoeft te vullen maar dat het gewoon met de SSH Key gebeurt.
